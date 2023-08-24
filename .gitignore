@@ -1,0 +1,4 @@
+.env.*
+*.csv
+build*
+node_modules*
